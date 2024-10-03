@@ -39,6 +39,8 @@ class AppSplashScreen extends StatelessWidget {
                     topLeft: Radius.circular(50),
                     topRight: Radius.circular(50),
                   ),
+
+                  
                 ),
                 child: Column(
                   children: [
